@@ -32,7 +32,7 @@
     "devDependencies": {
         "@types/node": "^22.0.0",
         "@types/tap": "^15.0.8",
-        "fastify": "^4.21.0",
+        "fastify": "^5.7.3",
         "prettier": "^3.0.1",
         "prisma": "^5.1.1",
         "tap": "^21.0.0",
